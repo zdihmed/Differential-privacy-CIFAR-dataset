@@ -1,4 +1,4 @@
-# Training-a-deep-learning-model-on-the-noisy-CIFAR-dataset
+# Differential-Privacy-CIFAR-dataset
 
 This repository contains the code of training deep learning model on a noisy CIFAR dataset. The noisy dataset is generated after adding a Gaussian noise to each image. In what follows, we describe each file of this repository:
 
